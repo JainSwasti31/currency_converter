@@ -13,7 +13,7 @@ A simple and responsive currency converter built with **React.js** that allows u
 - **React.js**
 - **Tailwind CSS**
 - **Custom React Hooks**
-- **Currency API** ([@fawazahmed0/currency-api](https://github.com/fawazahmed0/currency-api))
+- **Currency API** ([@fawazahmed0/currency-api](https://github.com/fawazahmed0/exchange-api))
 
 ## 🔗 Live Demo
 👉 [View Deployed App](https://my-currency-converter-six-lovat.vercel.app/)  
